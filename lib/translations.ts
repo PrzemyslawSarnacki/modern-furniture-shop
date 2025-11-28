@@ -90,7 +90,7 @@ export const translations = {
       description: 'Jesteśmy lokalnym sklepem meblowym z pasją do pięknych wnętrz. Od lat pomagamy klientom w Łomży i okolicach znaleźć idealne meble do ich domów.',
       location: {
         title: 'Lokalizacja',
-        address: 'ul. Pileckiego 2',
+        address: 'R. W. Rotmistrza Witolda Pileckiego 2',
         city: '18-400 Łomża',
         description: 'Odwiedź nas w naszym sklepie stacjonarnym w centrum Łomży.',
       },
@@ -164,12 +164,12 @@ export const translations = {
       infoTitle: 'Informacje Kontaktowe',
       address: {
         title: 'Adres',
-        street: 'ul. Pileckiego 2',
+        street: 'R. W. Rotmistrza Witolda Pileckiego 2',
         city: '18-400 Łomża',
       },
       phone: {
         title: 'Telefon',
-        number: '+48 86 123 45 67',
+        number: '+48 86 218 53 58',
       },
       email: {
         title: 'Email',
@@ -177,8 +177,13 @@ export const translations = {
       },
       hours: {
         title: 'Godziny Otwarcia',
-        weekdays: 'Pon-Pt: 9:00 - 18:00',
-        weekend: 'Sob: 9:00 - 15:00',
+        monday: 'Poniedziałek: 10:00 - 18:00',
+        tuesday: 'Wtorek: 10:00 - 18:00',
+        wednesday: 'Środa: 10:00 - 18:00',
+        thursday: 'Czwartek: 10:00 - 18:00',
+        friday: 'Piątek: 10:00 - 18:00',
+        saturday: 'Sobota: 10:00 - 14:00',
+        sunday: 'Niedziela: Zamknięte',
       },
       formTitle: 'Wyślij Wiadomość',
       form: {
@@ -204,7 +209,7 @@ export const translations = {
       phone: {
         title: 'Telefon',
         description: 'Zadzwoń do nas',
-        number: '+48 86 123 45 67',
+        number: '+48 86 218 53 58',
       },
       email: {
         title: 'Email',
@@ -304,7 +309,7 @@ export const translations = {
       questions: [
         {
           question: 'Jak mogę złożyć zamówienie?',
-          answer: 'Możesz złożyć zamówienie przez naszą stronę internetową, telefonicznie lub osobiście w naszym sklepie przy ul. Pileckiego 2 w Łomży.',
+          answer: 'Możesz złożyć zamówienie przez naszą stronę internetową, telefonicznie lub osobiście w naszym sklepie przy R. W. Rotmistrza Witolda Pileckiego 2 w Łomży.',
         },
         {
           question: 'Czy oferujecie darmową dostawę?',
@@ -332,7 +337,7 @@ export const translations = {
         },
         {
           question: 'Czy mogę zobaczyć meble przed zakupem?',
-          answer: 'Tak, zapraszamy do naszego sklepu stacjonarnego w Łomży przy ul. Pileckiego 2, gdzie możesz zobaczyć i wypróbować meble przed zakupem.',
+          answer: 'Tak, zapraszamy do naszego sklepu stacjonarnego w Łomży przy R. W. Rotmistrza Witolda Pileckiego 2, gdzie możesz zobaczyć i wypróbować meble przed zakupem.',
         },
       ],
     },
@@ -426,7 +431,7 @@ export const translations = {
       description: 'We are a local furniture store with a passion for creating beautiful living spaces. For years, we have been helping customers in Łomża and the surrounding area find the perfect furniture for their homes.',
       location: {
         title: 'Location',
-        address: 'ul. Pileckiego 2',
+        address: 'R. W. Rotmistrza Witolda Pileckiego 2',
         city: '18-400 Łomża',
         description: 'Visit us at our brick-and-mortar store in the center of Łomża.',
       },
@@ -500,12 +505,12 @@ export const translations = {
       infoTitle: 'Contact Information',
       address: {
         title: 'Address',
-        street: 'ul. Pileckiego 2',
+        street: 'R. W. Rotmistrza Witolda Pileckiego 2',
         city: '18-400 Łomża',
       },
       phone: {
         title: 'Phone',
-        number: '+48 86 123 45 67',
+        number: '+48 86 218 53 58',
       },
       email: {
         title: 'Email',
@@ -513,8 +518,13 @@ export const translations = {
       },
       hours: {
         title: 'Opening Hours',
-        weekdays: 'Mon-Fri: 9:00 AM - 6:00 PM',
-        weekend: 'Sat: 9:00 AM - 3:00 PM',
+        monday: 'Monday: 10:00 AM - 6:00 PM',
+        tuesday: 'Tuesday: 10:00 AM - 6:00 PM',
+        wednesday: 'Wednesday: 10:00 AM - 6:00 PM',
+        thursday: 'Thursday: 10:00 AM - 6:00 PM',
+        friday: 'Friday: 10:00 AM - 6:00 PM',
+        saturday: 'Saturday: 10:00 AM - 2:00 PM',
+        sunday: 'Sunday: Closed',
       },
       formTitle: 'Send Message',
       form: {
@@ -540,7 +550,7 @@ export const translations = {
       phone: {
         title: 'Phone',
         description: 'Call us',
-        number: '+48 86 123 45 67',
+        number: '+48 86 218 53 58',
       },
       email: {
         title: 'Email',
@@ -640,7 +650,7 @@ export const translations = {
       questions: [
         {
           question: 'How can I place an order?',
-          answer: 'You can place an order through our website, by phone, or in person at our store at ul. Pileckiego 2 in Łomża.',
+          answer: 'You can place an order through our website, by phone, or in person at our store at R. W. Rotmistrza Witolda Pileckiego 2 in Łomża.',
         },
         {
           question: 'Do you offer free shipping?',
@@ -668,7 +678,7 @@ export const translations = {
         },
         {
           question: 'Can I see the furniture before buying?',
-          answer: 'Yes, we invite you to our brick-and-mortar store in Łomża at ul. Pileckiego 2, where you can see and try the furniture before purchase.',
+          answer: 'Yes, we invite you to our brick-and-mortar store in Łomża at R. W. Rotmistrza Witolda Pileckiego 2, where you can see and try the furniture before purchase.',
         },
       ],
     },

@@ -116,8 +116,13 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">{t.contact.hours.title}</h3>
-                    <p className="text-gray-600">{t.contact.hours.weekdays}</p>
-                    <p className="text-gray-600">{t.contact.hours.weekend}</p>
+                    <p className="text-gray-600">{t.contact.hours.monday}</p>
+                    <p className="text-gray-600">{t.contact.hours.tuesday}</p>
+                    <p className="text-gray-600">{t.contact.hours.wednesday}</p>
+                    <p className="text-gray-600">{t.contact.hours.thursday}</p>
+                    <p className="text-gray-600">{t.contact.hours.friday}</p>
+                    <p className="text-gray-600">{t.contact.hours.saturday}</p>
+                    <p className="text-gray-600">{t.contact.hours.sunday}</p>
                   </div>
                 </div>
               </div>
