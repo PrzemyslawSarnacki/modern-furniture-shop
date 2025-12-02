@@ -40,6 +40,63 @@ const images = {
       filename: 'bookshelf-1.jpg',
       url: 'https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&q=80&auto=format&fit=crop'
     },
+    // New products
+    {
+      filename: 'sofa-2.jpg',
+      url: 'https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'sofa-3.jpg',
+      url: 'https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'sofa-4.jpg',
+      url: 'https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'table-2.jpg',
+      url: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'table-3.jpg',
+      url: 'https://images.unsplash.com/photo-1532372320572-cda25653a26d?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'table-4.jpg',
+      url: 'https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'chair-2.jpg',
+      url: 'https://images.unsplash.com/photo-1493663284031-b7e3aaa4f0a4?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'chair-3.jpg',
+      url: 'https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'chair-4.jpg',
+      url: 'https://images.unsplash.com/photo-1571055107559-3e67626fa8be?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'bedroom-2.jpg',
+      url: 'https://images.unsplash.com/photo-1631889993954-cc9a5e82ee4a?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'bedroom-3.jpg',
+      url: 'https://images.unsplash.com/photo-1593998066526-65fcab3021a2?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'bedroom-4.jpg',
+      url: 'https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'storage-2.jpg',
+      url: 'https://images.unsplash.com/photo-1599296909737-84e4b3e8ea32?w=800&q=80&auto=format&fit=crop'
+    },
+    {
+      filename: 'storage-3.jpg',
+      url: 'https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800&q=80&auto=format&fit=crop'
+    },
   ],
   categories: [
     {
